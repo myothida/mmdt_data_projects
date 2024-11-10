@@ -1,0 +1,16 @@
+,Age,Gender,Location,Education,Employment,Eng_ent,Math_ent,Commitment
+0,22,Male,Mandalay,Pass University First Year,student,23.0,26.0,Low
+1,16,Male,Mandalay,Pass 7th Grade,Not applicable,39.0,38.0,High
+2,19,Female,Sagaing,Pass 10th Grade,English Class တက်နေပြီး Dream Education မှာ Volunteer လုပ်နေပါတယ်။,37.0,36.0,High
+3,15,Male,Sagaing,Pass 7th Grade,cdm student,32.0,32.0,Low
+4,16,Female,Yangon,Pass 8th Grade,ကျောင်းသူ,33.0,28.0,High
+5,18,Female,Yangon,Pass 10th Grade,Intern,42.0,36.0,High
+6,17,Male,Yangon,Pass 9th Grade,Grade 10,27.0,30.0,High
+7,17,Female,Bago,Pass 9th Grade,-,42.0,32.0,Low
+8,19,Female,Yangon,Pass 9th Grade,မတက်ပါ,25.0,34.0,High
+9,16,Female,Thailand (Mae Sot),Pass 9th Grade,Student ,29.0,34.0,Low
+10,19,Female,Yangon,Pass 10th Grade,.,34.0,30.0,High
+11,18,Male,Yangon,Pass 9th Grade,CDM student,42.0,38.0,Low
+12,17,Female,Yangon,Pass 9th Grade,-,44.0,32.0,High
+13,17,Female,Mon,Pass 9th Grade,။,40.0,Unknown,High
+14,30,Male,Thailand (Mae Sot),Other,News Editor,25.0,20.0,Low

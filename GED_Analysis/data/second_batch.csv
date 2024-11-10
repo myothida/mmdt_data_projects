@@ -1,0 +1,40 @@
+,Age,Gender,Location,Education,Employment,Eng_ent,Math_ent,Commitment
+0,18,Male,Yangon,Pass 9th Grade,Unknown,70.0,60.0,High
+1,19,Male,Yangon,Pass 10th Grade,I haven't joined university ,54.0,80.0,High
+2,19,Female,Mon,Pass 9th Grade,မရှိပါ,58.0,50.0,High
+3,17,Female,Shan,Pass 9th Grade,School,56.0,45.0,Low
+4,18,Male,Mandalay,Pass 9th Grade,Mandalay Federal School,80.0,90.0,High
+5,17,Female,Yangon,Pass 8th Grade,I am not currently attending any school.,74.0,60.0,Low
+6,16,Female,Mandalay,Pass 10th Grade,No,48.0,80.0,High
+7,24,Male,Shan,Diploma Graduate,Baking,58.0,70.0,Low
+8,22,Female,Magway,Pass University First Year,University of the People(online),80.0,90.0,High
+9,21,Female,Kachin,Pass University First Year,"Completed 1st year in Technological University, but postponed it since 2020.",72.0,85.0,Low
+10,22,Male,Thailand (Others),Pass 10th Grade,Computer University Thaton(First year),66.0,60.0,Low
+11,18,Male,Yangon,Pass 9th Grade,Nothing ,54.0,60.0,High
+12,15,Male,Yangon,Pass 9th Grade,Pathfinder Institute Myanmar ,66.0,75.0,High
+13,17,Male,Mandalay,Pass 8th Grade,လက်ရှိ online တွင် Free class ဖြင့် G10 သင်ရိုးသင်ယူနေ,40.0,80.0,Low
+14,15,Female,Yangon,Other,No,50.0,100.0,High
+15,15,Female,Yangon,Other,No,74.0,100.0,High
+16,18,Male,Yangon,Pass 9th Grade,Unknown,80.0,65.0,High
+17,18,Female,Mandalay,Pass 10th Grade,CDM Student,48.0,80.0,High
+18,16,Female,Kachin,Pass 9th Grade,Student ,56.0,65.0,Low
+19,16,Male,Magway,Pass 7th Grade,"Currently I don't have any class to attend,I just have done my Pre IG class so.",82.0,90.0,High
+20,15,Male,Shan,Pass 8th Grade,Student ,56.0,70.0,Low
+21,17,Female,Yangon,Pass 10th Grade,Unknown,62.0,75.0,Low
+22,19,Male,Sagaing,Pass 10th Grade,I'm currently at home.,78.0,95.0,High
+23,18,Female,Mon,Pass 8th Grade,Federal school ,46.0,90.0,High
+24,18,Female,Mon,Pass 10th Grade,Federal school ,54.0,70.0,Low
+25,15,Female,Mandalay,Pass 8th Grade,-,66.0,80.0,High
+26,19,Female,Yangon,Pass 9th Grade,မရှိပါ,46.0,70.0,High
+27,19,Female,Sagaing,Pass 9th Grade,Nothing ,50.0,80.0,High
+28,17,Male,Taninthary,Pass 10th Grade,Student,64.0,95.0,High
+29,12,Female,Yangon,Other,Student ,56.0,90.0,High
+30,22,Female,Kayin,Pass University First Year,Tailor ,70.0,80.0,High
+31,18,Female,Yangon,Pass 9th Grade,CDM Student,48.0,60.0,High
+32,19,Female,Yangon,Pass 10th Grade,I am still a student and learning online.,60.0,70.0,High
+33,15,Female,Magway,Pass 9th Grade,I'm currently working as a volunteer in non profit organization,86.0,80.0,High
+34,16,Female,Yangon,Pass 8th Grade,-,80.0,85.0,High
+35,19,Female,Kayin,Pass 10th Grade,ကျောင်းနားထားပါတယ်ရှင့်,58.0,80.0,High
+36,18,Male,Yangon,Pass 9th Grade,Unknown,84.0,90.0,High
+37,17,Female,Yangon,Pass 9th Grade,Attending Grade-11 via online and doing GED self-study ,64.0,90.0,High
+38,16,Male,Mon,Pass 9th Grade,BEHS Zoke Thoke,0.0,0.0,High
